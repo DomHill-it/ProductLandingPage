@@ -1,0 +1,319 @@
+<div id= "page-wrapper">
+    <header id="header">
+        <div class="logo"> 
+            <img id="header-img" src="https://th.bing.com/th/id/OIP.oG19RiWjYfHcqDNsDENJDgHaID?w=157&h=180&c=7&o=5&dpr=1.25&pid=1.7" alt="iPhone 12"/>
+        </div>
+        <h2> Apple Reveals Newest Edition to the Apple Franchise: iPhone 12 and iPhone 12 Mini</h2>
+
+    <h3>iPhone 12</h3>
+<nav id="nav-bar">
+        <ul>
+            <li><a class="nav-link" href="#Overview">Overview</a></li>
+            <li><a class="nav-link" href="#All New Features">Features</a></li>
+            <li><a class="nav-link" href="Pricing">Pricing</a></li>
+        </ul>
+</nav>
+    </header>
+
+<div class="container"></div>
+
+<section id="hero">
+    <h2> The Worlds Smallest Thinnest 5G Phone</h2>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+    <input name="email" id="email"type="email" placeholder="Enter your email address" required/>
+    <input id="sumbit" type="submit" value="Get Started" class="btn"/>
+    </form>
+    <button class="btn">Submit</button>
+</section>
+
+
+<div class="container">
+    <section id= "Overview">
+        <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
+                <div class="desc">
+                    <h2>Blast Past Fast</h2>
+                    <p>5G speed. A14 Bionic, the fastest chip in a smartphone.
+                        An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.
+                        </p>
+                        </div>
+                        <div>
+                        <h3>A14 Chip</h3>
+                        <p>5G speed. A14 Bionic, the fastest chip in a smartphone.
+                            An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes.</p>
+                    </div>
+                    <div>
+                    <h3>OLED</h3>
+                    <p>Vastly more contrast. Incredible color accuracy. A huge jump in pixel density.6
+                        Wow. Just wow. OLED delivers brighter brights, darker blacks, and higher resolution for everything you look at. This is the best iPhone display we’ve ever made, and it goes all the way to the edge.
+                        </p>
+                    </div>
+                    <div>
+                      <h2>Dual Camera System</h2><h3>Welcome to the dark Side</h3>  
+                      <p>Both the Wide and Ultra Wide cameras now have Night mode — and it’s better than ever at capturing incredible low-light shots. The new Wide camera brings in 27 percent more light. So whether you take photos by day or by moonlight, you’ll get a level of detail and color that wasn’t possible before.</p>
+                    </div>
+                <div>
+                    <h3>Turbo chargeable</h3>
+                    <p>Magnets align themselves perfectly every time for faster wireless charging.
+                    </p>
+                </div>
+                <div>
+                    <h1>IOS 14</h1>
+                    <h3>iOS 14 is packed with shortcuts that get you just what you want, right when you want it.</h3>
+                        <p><strong>Pinned Conversations</strong> in messages put the people you talk to most right at the top of the list.</p>
+                        <p><strong>Widgets</strong> have been redesigned to serve up info you want at a glance-right on your Home screen.</p>
+                        <p><strong>Add Clips</strong> let you usea small part of an app to quickly do things like pay for parking or order takeout</p>
+                    <p><strong>To view more about iOS 14 visit <a href="https://www.apple.com/ios/ios-14/">iOS 14</a></strong></p>
+                </div>
+            </div>   
+            <div class="container">
+                <section id= "All New Features">
+                    <div class="grid">
+                        <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
+                            <div class="desc">  
+                                <h2>Wigets</h2>
+                                <p>Redesigned Apple widgets for Weather, Clock, Calendar, News, Maps, Fitness, Photos, Reminders, Stocks, Music, TV, Tips, Notes, Shortcuts, Battery, Screen Time, Files, Podcasts, and Siri Suggestions.
+                                    </p>
+                                    </div>
+                                    <div>
+                                    <h3>App Library</h3>
+                                    <p>The App Library is a new space at the end of your Home Screen pages that automatically organizes all of your apps into one simple, easy‑to‑navigate view.</p>
+                                </div>
+                                <div>
+                                <h3>Compact User Interface</h3>
+                                <p>Vastly more contrast. Incredible color accuracy. A huge jump in pixel density.6
+                                    Wow. Just wow. OLED delivers brighter brights, darker blacks, and higher resolution for everything you look at. This is the best iPhone display we’ve ever made, and it goes all the way to the edge.When you receive a call, it appears as a banner instead of taking over the entire screen, so you won’t lose track of what you’re doing. Swipe up on the banner to dismiss it or swipe down to access extended phone features and tap to answer.
+                                    </p>
+                                </div>
+                                <div>
+                                  <h2>Messages</h2>  
+                                  <p>Pin your favorite conversations to the top of your conversation list so you can always get to them. Recent messages, Tapbacks, and typing indicators animate in above the pin. And if a group conversation is pinned, you’ll see three recent participants circle around the pin when they send a message.</p>
+                                </div>
+                            <div>
+                                <h3>Memoji</h3>
+                                <p>Six new age options let you customize your look whether you’re baby-faced, in your golden years, or somewhere in between.
+                                </p>
+                            </div>
+                            <div>
+                                <h3>Translate</h3>
+                                    <p>Conversations are easy by design with Translate. Turn the phone to landscape to split the screen and show text from both sides of the conversation. Just tap the microphone button to say something, and automatic language detection transcribes the original and translated text on the correct sides of the screen, followed by the translated audio. Conversation mode works for downloaded languages even when you don’t have an internet connection.</p>
+                                <p><strong>To view more about this and more Features visit <a href="https://www.apple.com/ios/ios-14/features/">Features</a></strong></p>
+                      <div>
+                    </div>
+        
+    <div class="container">
+        <section id="Pricing"
+        class="icon"><i class="fa fa 3x fa-truck"></i>
+        <div class="desc">
+            <h2>Get up to $200 with Apple Trade-In: See Trade In value below </h2>
+            <h2><strong>Special Trade-In Offers at Apple</strong></h2>
+            <h3><strong>AT&T: For Existing AT&T customers</strong></h3>
+                <li>Get iPhone 12 Mini from $0/month over 30 month after trade in with AT&T </li>
+                <li>Get iPhone 12 from $3.30/month over 30 months after trade-in with AT&T</li>
+            <h3><strong>T-Mobile/Sprint: For Existing t-Mobile/Sprint Customers</strong></h3>    
+                <ul>Get an addidtional $100 trade-in credit from T-mobile/Sprint with trade-in of iPhone 8 or newer.</ul>
+            <h3><strong>Verizon: For Existing Verizon customers</strong></h3>
+            <li>Get iPhone 12 mini from $11.95/mo over 24 month after trade-in</li>
+            <li>Get iPhone 12 from $14.95/month over 24 month after trade-in</li>
+        
+        <h3>Buy iPhone 12 Mini: 5.4 Display</h3>
+        <p>From $29.12/month or $699 before trade-in*</p>
+      
+        <h3>Buy iPhone 12: 6.1 Display</h3>
+        <p>From $33.29/mo. per month or $799 before trade-in*</p>
+      
+        <h3>Colors</h3>
+            <h3>Blue</h3> <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343706000">
+            <h3>White</h3> <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-white-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343707000">
+            <h3>Black</h3> <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-black-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343705000">     
+            <h3>Green</h3> <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-green-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343706000">
+            <h3>Red</h3> <img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1604343707000">
+            <p>To view more about the prices and colors of the iPhone 12/iPhone Mini visit <a href="https://www.apple.com/shop/buy-iphone/iphone-12">Pricing</a></p>
+         </div>
+</section>
+    </form>
+</section>
+</div>
+<footer>
+    <ul>
+        <li><a href="https://support.apple.com/">Support</a></li>
+        <li><a href="https://www.apple.com/legal/internet-services/terms/site.html">Terms</a></li>
+        <li><a href="https://www.apple.com/legal/privacy/en-ww/">Privacy</a></li>
+        <li><a href="https://support.apple.com/contact">Contact</a></li>
+        </ul>
+        <span>Copyright 2021, Apple Inc</span>
+        <h2> All content was from the Apple website. I do not own rights to content or images on this webpage. This webpage was made for educational purposes only</h2>
+        </footer>
+    </div>
+    </div>
+
+<!DOCTYPE html>
+<style>
+    /**global element styline**/
+    *{
+        margin:0;
+        padding:0;
+        box-sizing: border-box;
+    }
+
+body {
+    background-color:#0026;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#page-wrapper {
+    position: relative;
+}
+
+li{
+    list-style: none;
+}
+
+a {
+    color: rgba(255, 0, 0, 0.609);
+    text-decoration: none;
+}
+
+
+
+/**global classes styling**/
+
+.container{
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.btn {
+    padding:0 2px;
+    height: 40px;
+    font-size: 1em;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: 3px orange solid;
+    border-radius: 2px;
+    background:transparent;
+    cursor: pointer;
+}
+
+.grid {
+    display:flex;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    min-height: 75px;
+    padding: 0px 20px;
+    display: flex; 
+    justify-content:space-around;
+    align-items: center;
+    background-color: #DCDCDC;
+}
+
+.logo {
+    width: 60vw;
+}
+
+.logo>img{
+    width: 100%;
+    height: 100%;
+    max-width: 300px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin-left: 20px;
+}
+
+nav{
+    font-weight:400;
+}
+
+nav > ul{
+    width: 100vw;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+#hero {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    text-align:center;
+    height: 200px;
+    margin-top: 50px;
+}
+
+#hero>h2{
+    margin-bottom: 20px;
+    word-wrap: break-word;
+}
+#hero input[type='email'] {
+    max-width: 275px;
+    width:275px;
+    padding: 5px;
+}
+
+#hero input[type='submit']{
+    max-width: 150px;
+    width:100%;
+    height: 30px;
+    margin: 15px 0;
+    border: 0;
+    background-color: #f1c40f;
+}
+
+#hero input[type='submit']:hover{
+    background-color:orange;
+    transition:background-color 1s;
+}
+
+#features {
+    margin-top: 30px;
+}
+
+#features.icon{
+    display:flex;
+    align-items: center;
+    height: 125px;
+    width:20vw;
+    color: darksalmon;
+}
+
+#features.desc{
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    height: 125px;
+    width:80vw;
+    padding: 5px;
+}
+
+#pricing {
+    margin-top: 60px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+#footer{
+    margin-top: 30px;
+    background-color: #FF4500;
+    padding: 20px;
+}
+
+footer> ul>li {
+    padding: 0 10px;
+}
+
+footer> span{
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+    font-size:0.9em;
+    color: #800000;
+}
+</style>
